@@ -1,5 +1,6 @@
 The files here are PDFs for 38mm badges. I got mine from
-[Awesome Merchandise](http://www.awesomemerchandise.com/38mm-Badges)
+Awesome Merchandise who have since ceased trading, and been bought out by
+[Print.inc](https://www.print.inc/p/611/38mm-round-badges)
 
 These were handed out at FOSDEM 2019, and were a great success.
 
